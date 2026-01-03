@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noureddine Tamssaout
+-  Hi, I’m Noureddine Tamssaout
 -  I'm interested in **Artificial Intelligence** and **High-Performance Computing (HPC)**
 -  How to reach me ( email : noureddine.tamss@gmail.com )
 -  My LinkedIn : https://www.linkedin.com/in/noureddine-tamssaout/
